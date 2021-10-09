@@ -12,5 +12,5 @@ What's bulma?
 Its a modern css framework 
 a easy to use 
 </p>
-<a href="https://pickatwu.github.io/bulmastartingpage/"><strong>Check it out!</strong></a><p></p>
+<a href="https://pickatwu.github.io/Bulma-Starter-Page/"><strong>Check it out!</strong></a><p></p>
 <a href="https://codeload.github.com/pickatwu/Bulma-Starter-Page/zip/refs/heads/website"><button><strong>Download and Edit</strong></button></a>

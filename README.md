@@ -8,9 +8,9 @@ Designed by pickatwu
 </p>
 
 <p>
-Whats bulma btw?
+What's bulma?
 Its a modern css framework 
 a easy to use 
 </p>
-<a href="https://pickatwu.github.io/bulmastartingpage/"><strong>Check it out!</strong></a>
+<a href="https://pickatwu.github.io/bulmastartingpage/"><strong>Check it out!</strong></a><p></p>
 <a href="https://codeload.github.com/pickatwu/Bulma-Starter-Page/zip/refs/heads/website"><button><strong>Download and Edit</strong></button></a>
